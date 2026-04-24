@@ -1,0 +1,242 @@
+match_id,date,venue,city,team1,team2,toss_winner,toss_decision,winner,tournament_year,toss_winner_team,winning_team,losing_team,toss_match_winner_same,tournament_edition,host_nation,match_number_in_tournament
+1942,2003-02-09,"Newlands, Cape Town",Cape Town,West Indies,South Africa,0,bat,0,2003,West Indies,West Indies,South Africa,True,2003 South Africa,South Africa,1
+1943,2003-02-10,Harare Sports Club,Harare,Zimbabwe,Namibia,1,field,0,2003,Namibia,Zimbabwe,Namibia,False,2003 South Africa,South Africa,2
+1944,2003-02-10,"Goodyear Park, Bloemfontein",Bloemfontein,Sri Lanka,New Zealand,1,field,0,2003,New Zealand,Sri Lanka,New Zealand,False,2003 South Africa,South Africa,3
+1945,2003-02-11,"New Wanderers Stadium, Johannesburg",Johannesburg,Australia,Pakistan,1,field,0,2003,Pakistan,Australia,Pakistan,False,2003 South Africa,South Africa,4
+1946,2003-02-11,"Kingsmead, Durban",Durban,Canada,Bangladesh,0,bat,0,2003,Canada,Canada,Bangladesh,True,2003 South Africa,South Africa,5
+1947,2003-02-12,"North West Cricket Stadium, Potchefstroom",Potchefstroom,Kenya,South Africa,0,bat,1,2003,Kenya,South Africa,Kenya,False,2003 South Africa,South Africa,6
+1948,2003-02-12,"Boland Bank Park, Paarl",Paarl,India,Netherlands,0,bat,0,2003,India,India,Netherlands,True,2003 South Africa,South Africa,7
+1949,2003-02-13,"St George's Park, Port Elizabeth",Gqeberha,New Zealand,West Indies,1,field,0,2003,West Indies,New Zealand,West Indies,False,2003 South Africa,South Africa,8
+1951,2003-02-15,"SuperSport Park, Centurion",Centurion,India,Australia,0,bat,1,2003,India,Australia,India,False,2003 South Africa,South Africa,9
+1952,2003-02-15,"Newlands, Cape Town",Cape Town,Canada,Kenya,0,bat,1,2003,Canada,Kenya,Canada,False,2003 South Africa,South Africa,10
+1953,2003-02-16,"Buffalo Park, East London",East London,Netherlands,England,1,field,1,2003,England,England,Netherlands,True,2003 South Africa,South Africa,11
+1954,2003-02-16,"De Beers Diamond Oval, Kimberley",Kimberley,Pakistan,Namibia,0,bat,0,2003,Pakistan,Pakistan,Namibia,True,2003 South Africa,South Africa,12
+1955,2003-02-16,"New Wanderers Stadium, Johannesburg",Johannesburg,South Africa,New Zealand,0,bat,1,2003,South Africa,New Zealand,South Africa,False,2003 South Africa,South Africa,13
+1957,2003-02-19,Harare Sports Club,Harare,India,Zimbabwe,1,field,0,2003,Zimbabwe,India,Zimbabwe,False,2003 South Africa,South Africa,14
+1958,2003-02-19,"Boland Bank Park, Paarl",Paarl,Canada,Sri Lanka,1,field,1,2003,Sri Lanka,Sri Lanka,Canada,True,2003 South Africa,South Africa,15
+1959,2003-02-19,"St George's Park, Port Elizabeth",Gqeberha,England,Namibia,1,field,0,2003,Namibia,England,Namibia,False,2003 South Africa,South Africa,16
+1961,2003-02-22,"Goodyear Park, Bloemfontein",Bloemfontein,Bangladesh,South Africa,1,field,1,2003,South Africa,South Africa,Bangladesh,True,2003 South Africa,South Africa,17
+1962,2003-02-22,"Newlands, Cape Town",Cape Town,England,Pakistan,0,bat,0,2003,England,England,Pakistan,True,2003 South Africa,South Africa,18
+1963,2003-02-23,"SuperSport Park, Centurion",Centurion,Canada,West Indies,1,field,1,2003,West Indies,West Indies,Canada,True,2003 South Africa,South Africa,19
+1964,2003-02-23,"City Oval, Pietermaritzburg",Pietermaritzburg,India,Namibia,1,field,0,2003,Namibia,India,Namibia,False,2003 South Africa,South Africa,20
+1965,2003-02-24,"Gymkhana Club Ground, Nairobi",Nairobi,Kenya,Sri Lanka,1,field,0,2003,Sri Lanka,Kenya,Sri Lanka,False,2003 South Africa,South Africa,21
+1966,2003-02-24,"Queens Sports Club, Bulawayo",Bulawayo,Zimbabwe,Australia,0,bat,1,2003,Zimbabwe,Australia,Zimbabwe,False,2003 South Africa,South Africa,22
+1967,2003-02-25,"Boland Bank Park, Paarl",Paarl,Pakistan,Netherlands,1,field,0,2003,Netherlands,Pakistan,Netherlands,False,2003 South Africa,South Africa,23
+1968,2003-02-26,"De Beers Diamond Oval, Kimberley",Kimberley,Bangladesh,New Zealand,0,bat,1,2003,Bangladesh,New Zealand,Bangladesh,False,2003 South Africa,South Africa,24
+1969,2003-02-26,"Kingsmead, Durban",Durban,India,England,0,bat,0,2003,India,India,England,True,2003 South Africa,South Africa,25
+1970,2003-02-27,"North West Cricket Stadium, Potchefstroom",Potchefstroom,Australia,Namibia,0,bat,0,2003,Australia,Australia,Namibia,True,2003 South Africa,South Africa,26
+1971,2003-02-27,"Buffalo Park, East London",East London,South Africa,Canada,1,field,0,2003,Canada,South Africa,Canada,False,2003 South Africa,South Africa,27
+1972,2003-02-28,"Queens Sports Club, Bulawayo",Bulawayo,Zimbabwe,Netherlands,1,field,0,2003,Netherlands,Zimbabwe,Netherlands,False,2003 South Africa,South Africa,28
+1973,2003-02-28,"Newlands, Cape Town",Cape Town,Sri Lanka,West Indies,0,bat,0,2003,Sri Lanka,Sri Lanka,West Indies,True,2003 South Africa,South Africa,29
+1974,2003-03-01,"New Wanderers Stadium, Johannesburg",Johannesburg,Kenya,Bangladesh,0,bat,0,2003,Kenya,Kenya,Bangladesh,True,2003 South Africa,South Africa,30
+1975,2003-03-01,"SuperSport Park, Centurion",Centurion,Pakistan,India,0,bat,1,2003,Pakistan,India,Pakistan,False,2003 South Africa,South Africa,31
+1976,2003-03-02,"St George's Park, Port Elizabeth",Gqeberha,England,Australia,0,bat,1,2003,England,Australia,England,False,2003 South Africa,South Africa,32
+1977,2003-03-03,"Willowmoore Park, Benoni",Benoni,Canada,New Zealand,1,field,1,2003,New Zealand,New Zealand,Canada,True,2003 South Africa,South Africa,33
+1978,2003-03-03,"Goodyear Park, Bloemfontein",Bloemfontein,Netherlands,Namibia,0,bat,0,2003,Netherlands,Netherlands,Namibia,True,2003 South Africa,South Africa,34
+1982,2003-03-07,"SuperSport Park, Centurion",Centurion,Australia,Sri Lanka,0,bat,0,2003,Australia,Australia,Sri Lanka,True,2003 South Africa,South Africa,35
+1983,2003-03-07,"Newlands, Cape Town",Cape Town,Kenya,India,0,bat,1,2003,Kenya,India,Kenya,False,2003 South Africa,South Africa,36
+1984,2003-03-08,"Goodyear Park, Bloemfontein",Bloemfontein,Zimbabwe,New Zealand,0,bat,1,2003,Zimbabwe,New Zealand,Zimbabwe,False,2003 South Africa,South Africa,37
+1985,2003-03-10,"New Wanderers Stadium, Johannesburg",Johannesburg,India,Sri Lanka,1,field,0,2003,Sri Lanka,India,Sri Lanka,False,2003 South Africa,South Africa,38
+1986,2003-03-11,"St George's Park, Port Elizabeth",Gqeberha,Australia,New Zealand,1,field,0,2003,New Zealand,Australia,New Zealand,False,2003 South Africa,South Africa,39
+1987,2003-03-12,"Goodyear Park, Bloemfontein",Bloemfontein,Zimbabwe,Kenya,0,bat,1,2003,Zimbabwe,Kenya,Zimbabwe,False,2003 South Africa,South Africa,40
+1988,2003-03-14,"SuperSport Park, Centurion",Centurion,New Zealand,India,1,field,1,2003,India,India,New Zealand,True,2003 South Africa,South Africa,41
+1989,2003-03-15,"Buffalo Park, East London",East London,Sri Lanka,Zimbabwe,0,bat,0,2003,Sri Lanka,Sri Lanka,Zimbabwe,True,2003 South Africa,South Africa,42
+1990,2003-03-15,"Kingsmead, Durban",Durban,Kenya,Australia,1,field,1,2003,Australia,Australia,Kenya,True,2003 South Africa,South Africa,43
+1991,2003-03-18,"St George's Park, Port Elizabeth",Gqeberha,Australia,Sri Lanka,0,bat,0,2003,Australia,Australia,Sri Lanka,True,2003 South Africa,South Africa,44
+1992,2003-03-20,"Kingsmead, Durban",Durban,India,Kenya,0,bat,0,2003,India,India,Kenya,True,2003 South Africa,South Africa,45
+1993,2003-03-23,"New Wanderers Stadium, Johannesburg",Johannesburg,Australia,India,1,field,0,2003,India,Australia,India,False,2003 South Africa,South Africa,46
+2531,2007-03-13,"Sabina Park, Kingston",Jamaica,West Indies,Pakistan,1,field,0,2007,Pakistan,West Indies,Pakistan,False,2007 West Indies,West Indies,1
+2532,2007-03-14,"Warner Park, Basseterre",St Kitts,Australia,Scotland,1,field,0,2007,Scotland,Australia,Scotland,False,2007 West Indies,West Indies,2
+2534,2007-03-15,"Queen's Park Oval, Port of Spain",Trinidad,Bermuda,Sri Lanka,1,bat,1,2007,Sri Lanka,Sri Lanka,Bermuda,True,2007 West Indies,West Indies,3
+2537,2007-03-16,"Warner Park, Basseterre",St Kitts,Netherlands,South Africa,0,field,1,2007,Netherlands,South Africa,Netherlands,False,2007 West Indies,West Indies,4
+2536,2007-03-16,"Beausejour Stadium, Gros Islet",St Lucia,England,New Zealand,1,field,1,2007,New Zealand,New Zealand,England,True,2007 West Indies,West Indies,5
+2538,2007-03-17,"Queen's Park Oval, Port of Spain",Trinidad,Bangladesh,India,1,bat,0,2007,India,Bangladesh,India,False,2007 West Indies,West Indies,6
+2539,2007-03-17,"Sabina Park, Kingston",Jamaica,Ireland,Pakistan,0,field,0,2007,Ireland,Ireland,Pakistan,True,2007 West Indies,West Indies,7
+2540,2007-03-18,"Warner Park, Basseterre",St Kitts,Australia,Netherlands,0,bat,0,2007,Australia,Australia,Netherlands,True,2007 West Indies,West Indies,8
+2541,2007-03-18,"Beausejour Stadium, Gros Islet",St Lucia,Canada,England,0,field,1,2007,Canada,England,Canada,False,2007 West Indies,West Indies,9
+2542,2007-03-19,"Queen's Park Oval, Port of Spain",Trinidad,Bermuda,India,0,field,1,2007,Bermuda,India,Bermuda,False,2007 West Indies,West Indies,10
+2543,2007-03-19,"Sabina Park, Kingston",Jamaica,West Indies,Zimbabwe,0,field,0,2007,West Indies,West Indies,Zimbabwe,True,2007 West Indies,West Indies,11
+2545,2007-03-20,"Warner Park, Basseterre",St Kitts,Scotland,South Africa,1,field,1,2007,South Africa,South Africa,Scotland,True,2007 West Indies,West Indies,12
+2544,2007-03-20,"Beausejour Stadium, Gros Islet",St Lucia,Kenya,New Zealand,0,field,1,2007,Kenya,New Zealand,Kenya,False,2007 West Indies,West Indies,13
+2546,2007-03-21,"Queen's Park Oval, Port of Spain",Trinidad,Bangladesh,Sri Lanka,0,field,1,2007,Bangladesh,Sri Lanka,Bangladesh,False,2007 West Indies,West Indies,14
+2547,2007-03-21,"Sabina Park, Kingston",Jamaica,Pakistan,Zimbabwe,1,field,0,2007,Zimbabwe,Pakistan,Zimbabwe,False,2007 West Indies,West Indies,15
+2549,2007-03-22,"Warner Park, Basseterre",St Kitts,Netherlands,Scotland,0,field,0,2007,Netherlands,Netherlands,Scotland,True,2007 West Indies,West Indies,16
+2548,2007-03-22,"Beausejour Stadium, Gros Islet",St Lucia,Canada,New Zealand,0,field,1,2007,Canada,New Zealand,Canada,False,2007 West Indies,West Indies,17
+2550,2007-03-23,"Queen's Park Oval, Port of Spain",Trinidad,India,Sri Lanka,0,field,1,2007,India,Sri Lanka,India,False,2007 West Indies,West Indies,18
+2551,2007-03-23,"Sabina Park, Kingston",Jamaica,West Indies,Ireland,1,bat,0,2007,Ireland,West Indies,Ireland,False,2007 West Indies,West Indies,19
+2552,2007-03-24,"Warner Park, Basseterre",St Kitts,Australia,South Africa,1,field,0,2007,South Africa,Australia,South Africa,False,2007 West Indies,West Indies,20
+2553,2007-03-24,"Beausejour Stadium, Gros Islet",St Lucia,England,Kenya,1,bat,0,2007,Kenya,England,Kenya,False,2007 West Indies,West Indies,21
+2554,2007-03-25,"Queen's Park Oval, Port of Spain",Trinidad,Bangladesh,Bermuda,0,field,0,2007,Bangladesh,Bangladesh,Bermuda,True,2007 West Indies,West Indies,22
+2555,2007-03-27,"Sir Vivian Richards Stadium, North Sound",Antigua,West Indies,Australia,0,field,1,2007,West Indies,Australia,West Indies,False,2007 West Indies,West Indies,23
+2556,2007-03-28,Providence Stadium,Guyana,South Africa,Sri Lanka,1,bat,0,2007,Sri Lanka,South Africa,Sri Lanka,False,2007 West Indies,West Indies,24
+2557,2007-03-29,"Sir Vivian Richards Stadium, North Sound",Antigua,West Indies,New Zealand,1,field,1,2007,New Zealand,New Zealand,West Indies,True,2007 West Indies,West Indies,25
+2558,2007-03-30,Providence Stadium,Guyana,England,Ireland,0,bat,0,2007,England,England,Ireland,True,2007 West Indies,West Indies,26
+2559,2007-03-31,"Sir Vivian Richards Stadium, North Sound",Antigua,Australia,Bangladesh,0,field,0,2007,Australia,Australia,Bangladesh,True,2007 West Indies,West Indies,27
+2560,2007-04-01,Providence Stadium,Guyana,West Indies,Sri Lanka,0,field,1,2007,West Indies,Sri Lanka,West Indies,False,2007 West Indies,West Indies,28
+2561,2007-04-02,"Sir Vivian Richards Stadium, North Sound",Antigua,Bangladesh,New Zealand,1,field,1,2007,New Zealand,New Zealand,Bangladesh,True,2007 West Indies,West Indies,29
+2562,2007-04-03,Providence Stadium,Guyana,Ireland,South Africa,1,field,1,2007,South Africa,South Africa,Ireland,True,2007 West Indies,West Indies,30
+2563,2007-04-04,"Sir Vivian Richards Stadium, North Sound",Antigua,England,Sri Lanka,0,field,1,2007,England,Sri Lanka,England,False,2007 West Indies,West Indies,31
+2564,2007-04-07,Providence Stadium,Guyana,Bangladesh,South Africa,1,field,0,2007,South Africa,Bangladesh,South Africa,False,2007 West Indies,West Indies,32
+2565,2007-04-08,"Sir Vivian Richards Stadium, North Sound",Antigua,Australia,England,1,bat,0,2007,England,Australia,England,False,2007 West Indies,West Indies,33
+2566,2007-04-09,Providence Stadium,Guyana,Ireland,New Zealand,1,bat,1,2007,New Zealand,New Zealand,Ireland,True,2007 West Indies,West Indies,34
+2567,2007-04-10,"National Cricket Stadium, St George's",Grenada,West Indies,South Africa,0,field,1,2007,West Indies,South Africa,West Indies,False,2007 West Indies,West Indies,35
+2568,2007-04-11,"Kensington Oval, Bridgetown",Barbados,Bangladesh,England,1,field,1,2007,England,England,Bangladesh,True,2007 West Indies,West Indies,36
+2569,2007-04-12,"National Cricket Stadium, St George's",Grenada,New Zealand,Sri Lanka,0,bat,1,2007,New Zealand,Sri Lanka,New Zealand,False,2007 West Indies,West Indies,37
+2570,2007-04-13,"Kensington Oval, Bridgetown",Barbados,Australia,Ireland,0,field,0,2007,Australia,Australia,Ireland,True,2007 West Indies,West Indies,38
+2571,2007-04-14,"National Cricket Stadium, St George's",Grenada,New Zealand,South Africa,0,field,0,2007,New Zealand,New Zealand,South Africa,True,2007 West Indies,West Indies,39
+2572,2007-04-15,"Kensington Oval, Bridgetown",Barbados,Bangladesh,Ireland,1,bat,1,2007,Ireland,Ireland,Bangladesh,True,2007 West Indies,West Indies,40
+2573,2007-04-16,"National Cricket Stadium, St George's",Grenada,Australia,Sri Lanka,1,bat,0,2007,Sri Lanka,Australia,Sri Lanka,False,2007 West Indies,West Indies,41
+2574,2007-04-17,"Kensington Oval, Bridgetown",Barbados,England,South Africa,0,bat,1,2007,England,South Africa,England,False,2007 West Indies,West Indies,42
+2575,2007-04-18,"National Cricket Stadium, St George's",Grenada,Ireland,Sri Lanka,1,field,1,2007,Sri Lanka,Sri Lanka,Ireland,True,2007 West Indies,West Indies,43
+2576,2007-04-19,"Kensington Oval, Bridgetown",Barbados,West Indies,Bangladesh,1,field,0,2007,Bangladesh,West Indies,Bangladesh,False,2007 West Indies,West Indies,44
+2577,2007-04-20,"National Cricket Stadium, St George's",Grenada,Australia,New Zealand,0,bat,0,2007,Australia,Australia,New Zealand,True,2007 West Indies,West Indies,45
+2578,2007-04-21,"Kensington Oval, Bridgetown",Barbados,West Indies,England,1,field,1,2007,England,England,West Indies,True,2007 West Indies,West Indies,46
+2579,2007-04-24,"Sabina Park, Kingston",Jamaica,New Zealand,Sri Lanka,1,bat,1,2007,Sri Lanka,Sri Lanka,New Zealand,True,2007 West Indies,West Indies,47
+2580,2007-04-25,"Beausejour Stadium, Gros Islet",St Lucia,Australia,South Africa,1,bat,0,2007,South Africa,Australia,South Africa,False,2007 West Indies,West Indies,48
+2581,2007-04-28,"Kensington Oval, Bridgetown",Barbados,Australia,Sri Lanka,0,bat,0,2007,Australia,Australia,Sri Lanka,True,2007 West Indies,West Indies,49
+3100,2011-02-19,Shere Bangla National Stadium,Mirpur,Bangladesh,India,0,field,1,2011,Bangladesh,India,Bangladesh,False,2011 India/SL/Bang,India,1
+3101,2011-02-20,"MA Chidambaram Stadium, Chepauk",Chennai,Kenya,New Zealand,0,bat,1,2011,Kenya,New Zealand,Kenya,False,2011 India/SL/Bang,India,2
+3102,2011-02-20,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,Sri Lanka,Canada,0,bat,0,2011,Sri Lanka,Sri Lanka,Canada,True,2011 India/SL/Bang,India,3
+3103,2011-02-21,"Sardar Patel Stadium, Motera",Ahmedabad,Australia,Zimbabwe,0,bat,0,2011,Australia,Australia,Zimbabwe,True,2011 India/SL/Bang,India,4
+3104,2011-02-22,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,England,Netherlands,1,bat,0,2011,Netherlands,England,Netherlands,False,2011 India/SL/Bang,India,5
+3105,2011-02-23,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,Kenya,Pakistan,1,bat,1,2011,Pakistan,Pakistan,Kenya,True,2011 India/SL/Bang,India,6
+3106,2011-02-24,Feroz Shah Kotla,Delhi,South Africa,West Indies,0,field,0,2011,South Africa,South Africa,West Indies,True,2011 India/SL/Bang,India,7
+3107,2011-02-25,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Australia,New Zealand,0,field,0,2011,Australia,Australia,New Zealand,True,2011 India/SL/Bang,India,8
+3108,2011-02-25,Shere Bangla National Stadium,Mirpur,Bangladesh,Ireland,0,bat,0,2011,Bangladesh,Bangladesh,Ireland,True,2011 India/SL/Bang,India,9
+3109,2011-02-26,R Premadasa Stadium,Colombo,Sri Lanka,Pakistan,1,bat,1,2011,Pakistan,Pakistan,Sri Lanka,True,2011 India/SL/Bang,India,10
+3112,2011-02-28,Feroz Shah Kotla,Delhi,Netherlands,West Indies,0,field,1,2011,Netherlands,West Indies,Netherlands,False,2011 India/SL/Bang,India,11
+3111,2011-02-28,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Canada,Zimbabwe,1,bat,1,2011,Zimbabwe,Zimbabwe,Canada,True,2011 India/SL/Bang,India,12
+3113,2011-03-01,R Premadasa Stadium,Colombo,Sri Lanka,Kenya,1,bat,0,2011,Kenya,Sri Lanka,Kenya,False,2011 India/SL/Bang,India,13
+3114,2011-03-02,M Chinnaswamy Stadium,Bangalore,England,Ireland,0,bat,1,2011,England,Ireland,England,False,2011 India/SL/Bang,India,14
+3115,2011-03-03,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Netherlands,South Africa,0,field,1,2011,Netherlands,South Africa,Netherlands,False,2011 India/SL/Bang,India,15
+3116,2011-03-03,R Premadasa Stadium,Colombo,Canada,Pakistan,1,bat,1,2011,Pakistan,Pakistan,Canada,True,2011 India/SL/Bang,India,16
+3117,2011-03-04,"Sardar Patel Stadium, Motera",Ahmedabad,New Zealand,Zimbabwe,1,bat,0,2011,Zimbabwe,New Zealand,Zimbabwe,False,2011 India/SL/Bang,India,17
+3118,2011-03-04,Shere Bangla National Stadium,Mirpur,Bangladesh,West Indies,0,bat,1,2011,Bangladesh,West Indies,Bangladesh,False,2011 India/SL/Bang,India,18
+3121,2011-03-06,M Chinnaswamy Stadium,Bangalore,India,Ireland,0,field,0,2011,India,India,Ireland,True,2011 India/SL/Bang,India,19
+3120,2011-03-06,"MA Chidambaram Stadium, Chepauk",Chennai,England,South Africa,0,bat,0,2011,England,England,South Africa,True,2011 India/SL/Bang,India,20
+3122,2011-03-07,Feroz Shah Kotla,Delhi,Canada,Kenya,1,bat,0,2011,Kenya,Canada,Kenya,False,2011 India/SL/Bang,India,21
+3124,2011-03-09,Feroz Shah Kotla,Delhi,India,Netherlands,1,bat,0,2011,Netherlands,India,Netherlands,False,2011 India/SL/Bang,India,22
+3126,2011-03-11,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Ireland,West Indies,0,field,1,2011,Ireland,West Indies,Ireland,False,2011 India/SL/Bang,India,23
+3127,2011-03-11,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,England,0,field,0,2011,Bangladesh,Bangladesh,England,True,2011 India/SL/Bang,India,24
+3128,2011-03-12,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,India,South Africa,0,bat,1,2011,India,South Africa,India,False,2011 India/SL/Bang,India,25
+3129,2011-03-13,Wankhede Stadium,Mumbai,Canada,New Zealand,0,field,1,2011,Canada,New Zealand,Canada,False,2011 India/SL/Bang,India,26
+3130,2011-03-13,M Chinnaswamy Stadium,Bangalore,Australia,Kenya,0,bat,0,2011,Australia,Australia,Kenya,True,2011 India/SL/Bang,India,27
+3131,2011-03-14,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,Netherlands,1,bat,0,2011,Netherlands,Bangladesh,Netherlands,False,2011 India/SL/Bang,India,28
+3133,2011-03-15,Eden Gardens,Kolkata,Ireland,South Africa,0,field,1,2011,Ireland,South Africa,Ireland,False,2011 India/SL/Bang,India,29
+3134,2011-03-16,M Chinnaswamy Stadium,Bangalore,Australia,Canada,1,bat,0,2011,Canada,Australia,Canada,False,2011 India/SL/Bang,India,30
+3135,2011-03-17,"MA Chidambaram Stadium, Chepauk",Chennai,England,West Indies,0,bat,0,2011,England,England,West Indies,True,2011 India/SL/Bang,India,31
+3137,2011-03-18,Wankhede Stadium,Mumbai,New Zealand,Sri Lanka,1,bat,1,2011,Sri Lanka,Sri Lanka,New Zealand,True,2011 India/SL/Bang,India,32
+3136,2011-03-18,Eden Gardens,Kolkata,Ireland,Netherlands,0,field,0,2011,Ireland,Ireland,Netherlands,True,2011 India/SL/Bang,India,33
+3139,2011-03-19,R Premadasa Stadium,Colombo,Australia,Pakistan,0,bat,1,2011,Australia,Pakistan,Australia,False,2011 India/SL/Bang,India,34
+3138,2011-03-19,Shere Bangla National Stadium,Mirpur,Bangladesh,South Africa,1,bat,1,2011,South Africa,South Africa,Bangladesh,True,2011 India/SL/Bang,India,35
+3140,2011-03-20,Eden Gardens,Kolkata,Kenya,Zimbabwe,1,bat,1,2011,Zimbabwe,Zimbabwe,Kenya,True,2011 India/SL/Bang,India,36
+3141,2011-03-20,"MA Chidambaram Stadium, Chepauk",Chennai,India,West Indies,0,bat,0,2011,India,India,West Indies,True,2011 India/SL/Bang,India,37
+3142,2011-03-23,Shere Bangla National Stadium,Mirpur,Pakistan,West Indies,1,bat,0,2011,West Indies,Pakistan,West Indies,False,2011 India/SL/Bang,India,38
+3143,2011-03-24,"Sardar Patel Stadium, Motera",Ahmedabad,India,Australia,1,bat,0,2011,Australia,India,Australia,False,2011 India/SL/Bang,India,39
+3144,2011-03-25,Shere Bangla National Stadium,Mirpur,New Zealand,South Africa,0,bat,0,2011,New Zealand,New Zealand,South Africa,True,2011 India/SL/Bang,India,40
+3145,2011-03-26,R Premadasa Stadium,Colombo,Sri Lanka,England,1,bat,0,2011,England,Sri Lanka,England,False,2011 India/SL/Bang,India,41
+3146,2011-03-29,R Premadasa Stadium,Colombo,Sri Lanka,New Zealand,1,bat,0,2011,New Zealand,Sri Lanka,New Zealand,False,2011 India/SL/Bang,India,42
+3147,2011-03-30,"Punjab Cricket Association Stadium, Mohali",Chandigarh,India,Pakistan,0,bat,0,2011,India,India,Pakistan,True,2011 India/SL/Bang,India,43
+3148,2011-04-02,Wankhede Stadium,Mumbai,India,Sri Lanka,1,bat,0,2011,Sri Lanka,India,Sri Lanka,False,2011 India/SL/Bang,India,44
+3599,2015-02-14,Hagley Oval,Christchurch,New Zealand,Sri Lanka,1,field,0,2015,Sri Lanka,New Zealand,Sri Lanka,False,2015 Australia/NZ,Australia,1
+3601,2015-02-15,Seddon Park,Hamilton,South Africa,Zimbabwe,1,field,0,2015,Zimbabwe,South Africa,Zimbabwe,False,2015 Australia/NZ,Australia,2
+3603,2015-02-16,Saxton Oval,Nelson,Ireland,West Indies,0,field,0,2015,Ireland,Ireland,West Indies,True,2015 Australia/NZ,Australia,3
+3604,2015-02-17,University Oval,Dunedin,New Zealand,Scotland,0,field,0,2015,New Zealand,New Zealand,Scotland,True,2015 Australia/NZ,Australia,4
+3606,2015-02-19,Saxton Oval,Nelson,United Arab Emirates,Zimbabwe,1,field,1,2015,Zimbabwe,Zimbabwe,United Arab Emirates,True,2015 Australia/NZ,Australia,5
+3607,2015-02-20,Westpac Stadium,Wellington,New Zealand,England,1,bat,0,2015,England,New Zealand,England,False,2015 Australia/NZ,Australia,6
+3608,2015-02-21,Hagley Oval,Christchurch,Pakistan,West Indies,0,field,1,2015,Pakistan,West Indies,Pakistan,False,2015 Australia/NZ,Australia,7
+3611,2015-02-23,Hagley Oval,Christchurch,England,Scotland,1,field,0,2015,Scotland,England,Scotland,False,2015 Australia/NZ,Australia,8
+3612,2015-02-24,Manuka Oval,Canberra,West Indies,Zimbabwe,0,bat,0,2015,West Indies,West Indies,Zimbabwe,True,2015 Australia/NZ,Australia,9
+3613,2015-02-25,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Ireland,United Arab Emirates,0,field,0,2015,Ireland,Ireland,United Arab Emirates,True,2015 Australia/NZ,Australia,10
+3617,2015-02-28,Eden Park,Auckland,New Zealand,Australia,1,bat,0,2015,Australia,New Zealand,Australia,False,2015 Australia/NZ,Australia,11
+3618,2015-02-28,Western Australia Cricket Association Ground,Perth,India,United Arab Emirates,1,bat,0,2015,United Arab Emirates,India,United Arab Emirates,False,2015 Australia/NZ,Australia,12
+3619,2015-03-01,Westpac Stadium,Wellington,England,Sri Lanka,0,bat,1,2015,England,Sri Lanka,England,False,2015 Australia/NZ,Australia,13
+3620,2015-03-01,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Pakistan,Zimbabwe,0,bat,0,2015,Pakistan,Pakistan,Zimbabwe,True,2015 Australia/NZ,Australia,14
+3621,2015-03-03,Manuka Oval,Canberra,Ireland,South Africa,1,bat,1,2015,South Africa,South Africa,Ireland,True,2015 Australia/NZ,Australia,15
+3622,2015-03-04,McLean Park,Napier,Pakistan,United Arab Emirates,1,field,0,2015,United Arab Emirates,Pakistan,United Arab Emirates,False,2015 Australia/NZ,Australia,16
+3624,2015-03-05,Saxton Oval,Nelson,Bangladesh,Scotland,0,field,0,2015,Bangladesh,Bangladesh,Scotland,True,2015 Australia/NZ,Australia,17
+3625,2015-03-06,Western Australia Cricket Association Ground,Perth,India,West Indies,1,bat,0,2015,West Indies,India,West Indies,False,2015 Australia/NZ,Australia,18
+3626,2015-03-07,Eden Park,Auckland,Pakistan,South Africa,1,field,0,2015,South Africa,Pakistan,South Africa,False,2015 Australia/NZ,Australia,19
+3627,2015-03-07,Bellerive Oval,Hobart,Ireland,Zimbabwe,1,field,0,2015,Zimbabwe,Ireland,Zimbabwe,False,2015 Australia/NZ,Australia,20
+3631,2015-03-10,Seddon Park,Hamilton,India,Ireland,1,bat,0,2015,Ireland,India,Ireland,False,2015 Australia/NZ,Australia,21
+3632,2015-03-11,Bellerive Oval,Hobart,Scotland,Sri Lanka,1,bat,1,2015,Sri Lanka,Sri Lanka,Scotland,True,2015 Australia/NZ,Australia,22
+3633,2015-03-12,Westpac Stadium,Wellington,South Africa,United Arab Emirates,1,field,0,2015,United Arab Emirates,South Africa,United Arab Emirates,False,2015 Australia/NZ,Australia,23
+3634,2015-03-13,Seddon Park,Hamilton,New Zealand,Bangladesh,0,field,0,2015,New Zealand,New Zealand,Bangladesh,True,2015 Australia/NZ,Australia,24
+3636,2015-03-14,Eden Park,Auckland,India,Zimbabwe,0,field,0,2015,India,India,Zimbabwe,True,2015 Australia/NZ,Australia,25
+3637,2015-03-14,Bellerive Oval,Hobart,Australia,Scotland,0,field,0,2015,Australia,Australia,Scotland,True,2015 Australia/NZ,Australia,26
+3638,2015-03-15,McLean Park,Napier,United Arab Emirates,West Indies,1,field,1,2015,West Indies,West Indies,United Arab Emirates,True,2015 Australia/NZ,Australia,27
+3643,2015-03-21,Westpac Stadium,Wellington,New Zealand,West Indies,0,bat,0,2015,New Zealand,New Zealand,West Indies,True,2015 Australia/NZ,Australia,28
+3644,2015-03-24,Eden Park,Auckland,New Zealand,South Africa,1,bat,0,2015,South Africa,New Zealand,South Africa,False,2015 Australia/NZ,Australia,29
+4143,2019-05-30,Kennington Oval,London,England,South Africa,1,field,0,2019,South Africa,England,South Africa,False,2019 England,England,1
+4144,2019-05-31,Trent Bridge,Nottingham,Pakistan,West Indies,1,field,1,2019,West Indies,West Indies,Pakistan,True,2019 England,England,2
+4145,2019-06-01,Sophia Gardens,Cardiff,New Zealand,Sri Lanka,0,field,0,2019,New Zealand,New Zealand,Sri Lanka,True,2019 England,England,3
+4147,2019-06-02,Kennington Oval,London,Bangladesh,South Africa,1,field,0,2019,South Africa,Bangladesh,South Africa,False,2019 England,England,4
+4148,2019-06-03,Trent Bridge,Nottingham,England,Pakistan,0,field,1,2019,England,Pakistan,England,False,2019 England,England,5
+4150,2019-06-05,The Rose Bowl,Southampton,India,South Africa,1,bat,0,2019,South Africa,India,South Africa,False,2019 England,England,6
+4151,2019-06-05,Kennington Oval,London,Bangladesh,New Zealand,1,field,1,2019,New Zealand,New Zealand,Bangladesh,True,2019 England,England,7
+4152,2019-06-06,Trent Bridge,Nottingham,Australia,West Indies,1,field,0,2019,West Indies,Australia,West Indies,False,2019 England,England,8
+4153,2019-06-08,Sophia Gardens,Cardiff,England,Bangladesh,1,field,0,2019,Bangladesh,England,Bangladesh,False,2019 England,England,9
+4155,2019-06-09,Kennington Oval,London,Australia,India,1,bat,1,2019,India,India,Australia,True,2019 England,England,10
+4157,2019-06-12,The Cooper Associates County Ground,Taunton,Australia,Pakistan,1,field,0,2019,Pakistan,Australia,Pakistan,False,2019 England,England,11
+4158,2019-06-14,The Rose Bowl,Southampton,England,West Indies,0,field,0,2019,England,England,West Indies,True,2019 England,England,12
+4159,2019-06-15,Kennington Oval,London,Australia,Sri Lanka,1,field,0,2019,Sri Lanka,Australia,Sri Lanka,False,2019 England,England,13
+4161,2019-06-16,Old Trafford,Manchester,India,Pakistan,1,field,0,2019,Pakistan,India,Pakistan,False,2019 England,England,14
+4162,2019-06-17,The Cooper Associates County Ground,Taunton,Bangladesh,West Indies,0,field,0,2019,Bangladesh,Bangladesh,West Indies,True,2019 England,England,15
+4165,2019-06-19,Edgbaston,Birmingham,New Zealand,South Africa,0,field,0,2019,New Zealand,New Zealand,South Africa,True,2019 England,England,16
+4166,2019-06-20,Trent Bridge,Nottingham,Australia,Bangladesh,0,bat,0,2019,Australia,Australia,Bangladesh,True,2019 England,England,17
+4168,2019-06-21,Headingley,Leeds,England,Sri Lanka,1,bat,1,2019,Sri Lanka,Sri Lanka,England,True,2019 England,England,18
+4170,2019-06-22,Old Trafford,Manchester,New Zealand,West Indies,1,field,0,2019,West Indies,New Zealand,West Indies,False,2019 England,England,19
+4171,2019-06-23,Lord's,London,Pakistan,South Africa,0,bat,0,2019,Pakistan,Pakistan,South Africa,True,2019 England,England,20
+4173,2019-06-25,Lord's,London,England,Australia,0,field,1,2019,England,Australia,England,False,2019 England,England,21
+4174,2019-06-26,Edgbaston,Birmingham,New Zealand,Pakistan,0,bat,1,2019,New Zealand,Pakistan,New Zealand,False,2019 England,England,22
+4175,2019-06-27,Old Trafford,Manchester,India,West Indies,0,bat,0,2019,India,India,West Indies,True,2019 England,England,23
+4176,2019-06-28,Riverside Ground,Chester-le-Street,South Africa,Sri Lanka,0,field,0,2019,South Africa,South Africa,Sri Lanka,True,2019 England,England,24
+4178,2019-06-29,Lord's,London,Australia,New Zealand,0,bat,0,2019,Australia,Australia,New Zealand,True,2019 England,England,25
+4179,2019-06-30,Edgbaston,Birmingham,England,India,0,bat,0,2019,England,England,India,True,2019 England,England,26
+4180,2019-07-01,Riverside Ground,Chester-le-Street,Sri Lanka,West Indies,1,field,0,2019,West Indies,Sri Lanka,West Indies,False,2019 England,England,27
+4182,2019-07-02,Edgbaston,Birmingham,Bangladesh,India,1,bat,1,2019,India,India,Bangladesh,True,2019 England,England,28
+4183,2019-07-03,Riverside Ground,Chester-le-Street,England,New Zealand,0,bat,0,2019,England,England,New Zealand,True,2019 England,England,29
+4186,2019-07-05,Lord's,London,Bangladesh,Pakistan,1,bat,1,2019,Pakistan,Pakistan,Bangladesh,True,2019 England,England,30
+4187,2019-07-06,Headingley,Leeds,India,Sri Lanka,1,bat,0,2019,Sri Lanka,India,Sri Lanka,False,2019 England,England,31
+4188,2019-07-06,Old Trafford,Manchester,Australia,South Africa,1,bat,1,2019,South Africa,South Africa,Australia,True,2019 England,England,32
+4190,2019-07-09,Old Trafford,Manchester,India,New Zealand,1,bat,1,2019,New Zealand,New Zealand,India,True,2019 England,England,33
+4191,2019-07-11,Edgbaston,Birmingham,Australia,England,0,bat,1,2019,Australia,England,Australia,False,2019 England,England,34
+4658,2023-10-05,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,England,New Zealand,1,field,1,2023,New Zealand,New Zealand,England,True,2023 India,India,1
+4659,2023-10-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Pakistan,Netherlands,1,field,0,2023,Netherlands,Pakistan,Netherlands,False,2023 India,India,2
+4661,2023-10-07,"Arun Jaitley Stadium, Delhi",Delhi,South Africa,Sri Lanka,1,field,0,2023,Sri Lanka,South Africa,Sri Lanka,False,2023 India,India,3
+4662,2023-10-08,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Australia,India,0,bat,1,2023,Australia,India,Australia,False,2023 India,India,4
+4663,2023-10-09,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,New Zealand,Netherlands,1,field,0,2023,Netherlands,New Zealand,Netherlands,False,2023 India,India,5
+4664,2023-10-10,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,England,Bangladesh,1,field,0,2023,Bangladesh,England,Bangladesh,False,2023 India,India,6
+4665,2023-10-10,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Sri Lanka,Pakistan,0,bat,1,2023,Sri Lanka,Pakistan,Sri Lanka,False,2023 India,India,7
+4667,2023-10-12,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,South Africa,Australia,1,field,0,2023,Australia,South Africa,Australia,False,2023 India,India,8
+4668,2023-10-13,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Bangladesh,New Zealand,1,field,1,2023,New Zealand,New Zealand,Bangladesh,True,2023 India,India,9
+4669,2023-10-14,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Pakistan,India,1,field,1,2023,India,India,Pakistan,True,2023 India,India,10
+4671,2023-10-16,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Sri Lanka,Australia,0,bat,1,2023,Sri Lanka,Australia,Sri Lanka,False,2023 India,India,11
+4672,2023-10-17,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Netherlands,South Africa,1,field,0,2023,South Africa,Netherlands,South Africa,False,2023 India,India,12
+4674,2023-10-19,"Maharashtra Cricket Association Stadium, Pune",Pune,Bangladesh,India,0,bat,1,2023,Bangladesh,India,Bangladesh,False,2023 India,India,13
+4675,2023-10-20,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Australia,Pakistan,1,field,0,2023,Pakistan,Australia,Pakistan,False,2023 India,India,14
+4676,2023-10-21,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Netherlands,Sri Lanka,0,bat,1,2023,Netherlands,Sri Lanka,Netherlands,False,2023 India,India,15
+4677,2023-10-21,"Wankhede Stadium, Mumbai",Mumbai,South Africa,England,1,field,0,2023,England,South Africa,England,False,2023 India,India,16
+4678,2023-10-22,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,New Zealand,India,1,field,1,2023,India,India,New Zealand,True,2023 India,India,17
+4680,2023-10-24,"Wankhede Stadium, Mumbai",Mumbai,South Africa,Bangladesh,0,bat,0,2023,South Africa,South Africa,Bangladesh,True,2023 India,India,18
+4681,2023-10-25,"Arun Jaitley Stadium, Delhi",Delhi,Australia,Netherlands,0,bat,0,2023,Australia,Australia,Netherlands,True,2023 India,India,19
+4682,2023-10-26,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,England,Sri Lanka,0,bat,1,2023,England,Sri Lanka,England,False,2023 India,India,20
+4683,2023-10-27,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Pakistan,South Africa,0,bat,1,2023,Pakistan,South Africa,Pakistan,False,2023 India,India,21
+4684,2023-10-28,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Australia,New Zealand,1,field,0,2023,New Zealand,Australia,New Zealand,False,2023 India,India,22
+4685,2023-10-28,"Eden Gardens, Kolkata",Kolkata,Netherlands,Bangladesh,0,bat,0,2023,Netherlands,Netherlands,Bangladesh,True,2023 India,India,23
+4686,2023-10-29,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,India,England,1,field,0,2023,England,India,England,False,2023 India,India,24
+4688,2023-10-31,"Eden Gardens, Kolkata",Kolkata,Bangladesh,Pakistan,0,bat,1,2023,Bangladesh,Pakistan,Bangladesh,False,2023 India,India,25
+4689,2023-11-01,"Maharashtra Cricket Association Stadium, Pune",Pune,South Africa,New Zealand,1,field,0,2023,New Zealand,South Africa,New Zealand,False,2023 India,India,26
+4690,2023-11-02,"Wankhede Stadium, Mumbai",Mumbai,India,Sri Lanka,1,field,0,2023,Sri Lanka,India,Sri Lanka,False,2023 India,India,27
+4692,2023-11-04,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,New Zealand,Pakistan,1,field,1,2023,Pakistan,Pakistan,New Zealand,True,2023 India,India,28
+4693,2023-11-04,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Australia,England,1,field,0,2023,England,Australia,England,False,2023 India,India,29
+4694,2023-11-05,"Eden Gardens, Kolkata",Kolkata,India,South Africa,0,bat,0,2023,India,India,South Africa,True,2023 India,India,30
+4695,2023-11-06,"Arun Jaitley Stadium, Delhi",Delhi,Sri Lanka,Bangladesh,1,field,1,2023,Bangladesh,Bangladesh,Sri Lanka,True,2023 India,India,31
+4697,2023-11-08,"Maharashtra Cricket Association Stadium, Pune",Pune,England,Netherlands,0,bat,0,2023,England,England,Netherlands,True,2023 India,India,32
+4698,2023-11-09,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Sri Lanka,New Zealand,1,field,1,2023,New Zealand,New Zealand,Sri Lanka,True,2023 India,India,33
+4700,2023-11-11,"Maharashtra Cricket Association Stadium, Pune",Pune,Bangladesh,Australia,1,field,1,2023,Australia,Australia,Bangladesh,True,2023 India,India,34
+4701,2023-11-11,"Eden Gardens, Kolkata",Kolkata,England,Pakistan,0,bat,0,2023,England,England,Pakistan,True,2023 India,India,35
+4702,2023-11-12,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,India,Netherlands,0,bat,0,2023,India,India,Netherlands,True,2023 India,India,36
+4703,2023-11-15,"Wankhede Stadium, Mumbai",Mumbai,India,New Zealand,0,bat,0,2023,India,India,New Zealand,True,2023 India,India,37
+4704,2023-11-16,"Eden Gardens, Kolkata",Kolkata,South Africa,Australia,0,bat,1,2023,South Africa,Australia,South Africa,False,2023 India,India,38
+4705,2023-11-19,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,India,Australia,1,field,1,2023,Australia,Australia,India,True,2023 India,India,39
